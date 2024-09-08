@@ -29,8 +29,11 @@ Here are some ideas to get you started:
   - ⚡ Interested in data analysis for medical sciences
 
   - 📚 Experienced in R, R Shiny and ImageJ macro language
+    
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=82aaff)
+![R](https://img.shields.io/badge/R-1a1b27?style=for-the-badge&logo=r&logoColor=82aaff)
+![R Shiny](https://img.shields.io/badge/R_Shiny-1a1b27?style=for-the-badge&logo=r&logoColor=c792ea)
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
  </p>
 
 ###
@@ -48,10 +51,12 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=MarnieMaddock&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marniemaddock&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&border_radius=5&order=3" height="160" alt="marniemaddock" />
+  <img src="https://streak-stats.demolab.com?user=MarnieMaddock&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marniemaddock&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="marniemaddock" />
 </div>
 
 <p></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marniemaddock&label=Profile%20views&color=0e75b6&style=flat" alt="marniemaddock" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=marniemaddock&label=Profile%20views&color=82aaff&style=flat" alt="marniemaddock" />
+</p>
