@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marniemaddock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marniemaddock" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marnie-maddock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marnie maddock" height="30" width="40" /></a>
+<a href="(https://au.linkedin.com/in/marnie-maddock-7050731aa)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marnie maddock" height="30" width="40" /></a>
 </p>
 
 
