@@ -26,9 +26,11 @@ Here are some ideas to get you started:
   
   - 🌱 I’m learning **Python**
 
+  - ⚡ Interested in data analysis for medical sciences
+
   - 📚 Experienced in R, R Shiny and ImageJ macro language
 
-  - ⚡ Interested in data analysis for medical sciences
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
  </p>
 
 ###
