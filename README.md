@@ -14,22 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Marnie from Sydney, Australia <br><br>
+<p align="left">
   
-  - 🔭 I’m currently working on [ProntoPCR](https://github.com/MarnieMaddock/ProntoPCR)
-  
-  - 🌱 I’m learning **Python**
-
-  - ⚡ Interested in data analysis for medical sciences
-
-  - 📚 Experienced in R, R Shiny and ImageJ macro language
-    
 ![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=82aaff)
 ![R](https://img.shields.io/badge/R-1a1b27?style=for-the-badge&logo=r&logoColor=82aaff)
 ![R Shiny](https://img.shields.io/badge/R_Shiny-1a1b27?style=for-the-badge&logo=r&logoColor=c792ea)
