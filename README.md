@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 <p align="left">
   
-![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=82aaff)
 ![R](https://img.shields.io/badge/R-1a1b27?style=for-the-badge&logo=r&logoColor=82aaff)
 ![R Shiny](https://img.shields.io/badge/R_Shiny-1a1b27?style=for-the-badge&logo=r&logoColor=c792ea)
 
@@ -25,10 +24,11 @@ Here are some ideas to get you started:
 ###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/marniemaddock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marniemaddock" height="30" width="40" /></a>
-<a href="(https://au.linkedin.com/in/marnie-maddock-7050731aa)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marnie maddock" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/marnie-maddock-7050731aa/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
 
+[![Email](https://img.shields.io/badge/contact-lightblue?logo=gmail)](mailto:mlm715@uowmail.edu.au)
 
 ###
 
