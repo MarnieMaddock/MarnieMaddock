@@ -104,6 +104,8 @@ qPCR analysis pipeline built in R/Shiny
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marniemaddock&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="marniemaddock" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marniemaddock&label=Profile%20views&color=82aaff&style=flat" alt="marniemaddock" />
