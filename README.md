@@ -75,7 +75,7 @@ qPCR analysis pipeline built in R/Shiny
 
 🔗 <a href="https://github.com/MarnieMaddock/ProntoPCR">Repository</a>  
 🌐 <a href="https://marniemaddock.github.io/ProntoPCR/">App</a>  
-📄 <a href="https://doi.org/yourpaper">Publication</a>
+📄 <a href="https://joss.theoj.org/papers/10.21105/joss.09949">Publication</a>
 
 </div>
 
